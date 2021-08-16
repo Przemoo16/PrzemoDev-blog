@@ -1,0 +1,33 @@
+{
+  "matchId": "16697",
+  "leagueName": "UEFA Champions League",
+  "seasonName": "UEFA Champions League - 2020/2021",
+  "teams": {
+    "homeName": "Manchester City F.C.",
+    "awayName": "Chelsea F.C."
+  },
+  "venueName": "Estadio do Dragao",
+  "date": "2021-05-29T19:00:00Z",
+  "result": {
+    "teamHomeGoals": 0,
+    "teamAwayGoals": 1
+  },
+  "referees": [
+    {
+      "refereeType": "main",
+      "refereeName": "Antonio Miguel Mateu Lahoz"
+    },
+    {
+      "refereeType": "assistant",
+      "refereeName": "Pau Cebrian Devis"
+    },
+    {
+      "refereeType": "assistant",
+      "refereeName": "Roberto Diaz Perez del Palomar"
+    },
+    {
+      "refereeType": "assistant",
+      "refereeName": "Carlos del Cerro Grande"
+    }
+  ]
+}
