@@ -38,4 +38,4 @@ if __name__ == "__main__":
         Player(id_="id_2", name="Cristiano Ronaldo", rating=None),  # type: ignore
     )
 
-    print("Continuing the program...")  # noqa: T001
+    print("Continuing the program...")
