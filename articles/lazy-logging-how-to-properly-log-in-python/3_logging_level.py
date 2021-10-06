@@ -14,7 +14,7 @@ class Player:
 
     @property
     def rating_prediction(self) -> float:
-        print("Counting rating prediction...")  # noqa: T001
+        print("Counting rating prediction...")
         time.sleep(3)  # Imitate time-consuming operation
         return random.uniform(8, 10)  # nosec
 

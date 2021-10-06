@@ -14,6 +14,7 @@ indent_size = 2
 
 [*.py]
 max_line_length = 88
+profile = black
 
 [*.json]
 indent_size = 2
