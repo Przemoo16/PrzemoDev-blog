@@ -12,7 +12,7 @@ log_arg = "Hello"
 # Eager logging
 log.info("Sample message: %s" % log_arg)  # %-formatting
 log.info("Sample message: {}".format(log_arg))  # str.format()
-log.info(f"Sample message: {log_arg}")  # f-string
+log.info(f"Sample message: {log_arg}")  # f-strings
 
 # Eager logging with explicit steps
 message_1 = "Sample message: %s" % log_arg
