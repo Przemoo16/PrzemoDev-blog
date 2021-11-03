@@ -1,6 +1,7 @@
 # pylint: disable=logging-not-lazy
 # pylint: disable=logging-format-interpolation
 # pylint: disable=logging-fstring-interpolation
+# pylint: disable=consider-using-f-string
 
 import logging
 
